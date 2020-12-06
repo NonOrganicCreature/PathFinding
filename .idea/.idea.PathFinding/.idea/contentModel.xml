@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sverl\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sverl\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_PathFinding.418004447.00" t="ExcludeRecursive" />
+    <e p="E:\PathFinding" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="EpPathFinding.cs" t="Include">
+          <e p="EpPathFinding.cs" t="Include">
+            <e p="PathFinder" t="Include">
+              <e p="AStarFinder.cs" t="Include" />
+              <e p="DiagonalMovement.cs" t="Include" />
+              <e p="Grid" t="Include">
+                <e p="BaseGrid.cs" t="Include" />
+                <e p="DynamicGrid.cs" t="Include" />
+                <e p="DynamicGridWPool.cs" t="Include" />
+                <e p="PartialGridWPool.cs" t="Include" />
+                <e p="StaticGrid.cs" t="Include" />
+              </e>
+              <e p="GridPos.cs" t="Include" />
+              <e p="GridRect.cs" t="Include" />
+              <e p="Heuristic.cs" t="Include" />
+              <e p="JumpPointFinder.cs" t="Include" />
+              <e p="NodePool.cs" t="Include" />
+              <e p="ParamBase.cs" t="Include" />
+              <e p="Util.cs" t="Include" />
+            </e>
+            <e p="Properties" t="Include">
+              <e p="AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraControls.cs" t="Include" />
+          <e p="Components" t="Include">
+            <e p="Bullet.cs" t="Include" />
+            <e p="BulletAcceptor.cs" t="Include" />
+            <e p="BulletOwner.cs" t="Include" />
+            <e p="BulletViewRef.cs" t="Include" />
+            <e p="ChangeWalkPathEvent.cs" t="Include" />
+            <e p="DestroyUnitEvent.cs" t="Include" />
+            <e p="Field.cs" t="Include" />
+            <e p="FieldViewRef.cs" t="Include" />
+            <e p="Position.cs" t="Include" />
+            <e p="Rotation.cs" t="Include" />
+            <e p="Unit.cs" t="Include" />
+            <e p="UnitAttackCoolDown.cs" t="Include" />
+            <e p="UnitHealth.cs" t="Include" />
+            <e p="UnitInAttack.cs" t="Include" />
+            <e p="UnitLocalTransform.cs" t="Include" />
+            <e p="UnitMoving.cs" t="Include" />
+            <e p="UnitSideType.cs" t="Include" />
+            <e p="UnitTarget.cs" t="Include" />
+            <e p="UnitViewRef.cs" t="Include" />
+            <e p="WalkPath.cs" t="Include" />
+          </e>
+          <e p="Configuration.cs" t="Include" />
+          <e p="EcsStartup.cs" t="Include" />
+          <e p="Enum" t="Include">
+            <e p="UnitSide.cs" t="Include" />
+            <e p="UnitType.cs" t="Include" />
+          </e>
+          <e p="GameState.cs" t="Include" />
+          <e p="SceneData.cs" t="Include" />
+          <e p="Systems" t="Include">
+            <e p="BulletMoveSystem.cs" t="Include" />
+            <e p="CheckUnitInFieldPositionSystem.cs" t="Include" />
+            <e p="ChooseTargetSystem.cs" t="Include" />
+            <e p="CreateFieldViewSystem.cs" t="Include" />
+            <e p="DestroyUnitSystem.cs" t="Include" />
+            <e p="InitializeGridFieldsSystem.cs" t="Include" />
+            <e p="SpawnUnitSystem.cs" t="Include" />
+            <e p="UnitAttackTargetSystem.cs" t="Include" />
+            <e p="UnitDeathProcessingSystem.cs" t="Include" />
+            <e p="UnitMoveSystem.cs" t="Include" />
+            <e p="UnitSetPathSystem.cs" t="Include" />
+          </e>
+          <e p="UnityComponents" t="Include">
+            <e p="BulletView.cs" t="Include" />
+            <e p="GridFieldView.cs" t="Include" />
+            <e p="UnitView.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="PathFinding.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

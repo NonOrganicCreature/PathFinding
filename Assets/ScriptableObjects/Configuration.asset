@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37f9210f5b798f24c89154bcc44b8089, type: 3}
+  m_Name: Configuration
+  m_EditorClassIdentifier: 
+  team1Material: {fileID: 2100000, guid: e1f676e244961f44abe0afe6a65032d3, type: 2}
+  team2Material: {fileID: 2100000, guid: 6725c09e2bcb45549afe27cb3c5764e3, type: 2}
+  rangeView: {fileID: 2145097776499431641, guid: f713bec21912ace4083d76f65ed7516a,
+    type: 3}
+  meleeView: {fileID: 5218803533820923775, guid: 0cf76a95000a04d4e8a3690fd1d2f932,
+    type: 3}
+  fieldView: {fileID: 1015240968509418501, guid: eae47d10e051fb84ebfb34ae5f8ba952,
+    type: 3}
+  bulletView: {fileID: 5543571097749239957, guid: d28c880b602912f4fb020a9ae7bc65f2,
+    type: 3}
+  tileView: {fileID: 11400000, guid: 15b054a1ae53dc54fa3732ee6b66f593, type: 2}
+  unitSpeed: 7.59
+  rangeDamage: 2
+  meleeDamage: 1
+  respawnSecondsLeftSide: 4
+  respawnSecondsRightSide: 4
+  waitUntilRecalculateWalkPath: 1.57
+  meleeAttackRadius: 2.04
+  rangeAttackRadius: 8
+  unitHealth: 4
+  unitAttackCooldown: 1
